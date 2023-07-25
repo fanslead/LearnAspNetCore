@@ -1,0 +1,12 @@
+E:\Learn\LearnStartup\StartupHostLib\bin\Debug\net7.0\StartupHostLib.deps.json
+E:\Learn\LearnStartup\StartupHostLib\bin\Debug\net7.0\StartupHostLib.dll
+E:\Learn\LearnStartup\StartupHostLib\bin\Debug\net7.0\StartupHostLib.pdb
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.csproj.AssemblyReference.cache
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.AssemblyInfoInputs.cache
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.AssemblyInfo.cs
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.csproj.CoreCompileInputs.cache
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.dll
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\refint\StartupHostLib.dll
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\StartupHostLib.pdb
+E:\Learn\LearnStartup\StartupHostLib\obj\Debug\net7.0\ref\StartupHostLib.dll
